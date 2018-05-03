@@ -6,8 +6,6 @@ from prog4_2 import StackMachine
 
 def main():
 
-    print("Assignment #4-3, Cody Morgan, codymorgan89@gmail.com")
-
     _procLines = []
 
     s = StackMachine()
