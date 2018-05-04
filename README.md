@@ -20,3 +20,6 @@ prog4_3.py:
     the commands via the Python Virtual Machine (StackMachine) created. If any tokenization or parse errors are
     present, they are specified accordingly. If the file/program executes without error, the driver specifies that
     the program ran and terminated correctly.
+
+(*) 100fib.sm is a program to calculate the first 100 Fibonacci numbers
+(*) 100prime.sm is a program to calculate the first 100 prime numbers
