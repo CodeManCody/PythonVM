@@ -16,10 +16,10 @@ prog4_3.py:
 
     Program execution: python3 prog4_3.py <file.sm>
 
-    This is a driver that tokenizes and parses a file (program) passed in through the command line, and then executes
+    This is a driver that tokenizes and parses a file (program) passed in through the command line, and executes
     the commands via the Python Virtual Machine (StackMachine) created. If any tokenization or parse errors are
-    present, they are specified accordingly. If the file/program executes without error, the driver specifies that
-    the program ran and terminated correctly.
+    present, they are specified accordingly. If the file/program executes without error, the driver specifies
+    that the program ran and terminated correctly.
 
 100fib.sm is a program to calculate the first 100 Fibonacci numbers
 
